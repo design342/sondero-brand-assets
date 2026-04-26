@@ -8,9 +8,16 @@ Public CDN for Sondero brand assets, served via jsDelivr.
 - `logo-sondero-256.png` — 256×256 (CDN-optimized for typical web display)
 - `logo-sondero-192.png` — 192×192 (3× retina at 64px display)
 
+## Founders
+
+- `chris.png` — Christoph Ebhart (224×224, retina-ready)
+- `kail.png` — Kail (224×224, retina-ready)
+
 ### Usage via jsDelivr
 
 ```
 https://cdn.jsdelivr.net/gh/design342/sondero-brand-assets@main/logo-sondero-256.png
+https://cdn.jsdelivr.net/gh/design342/sondero-brand-assets@main/chris.png
+https://cdn.jsdelivr.net/gh/design342/sondero-brand-assets@main/kail.png
 ```
 
